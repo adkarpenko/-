@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="0" package="com.companyname.x___________" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="14" android:targetSdkVersion="28" />
+	<application android:label="ПосчитайЧЕК" android:icon="@mipmap/launcher_foreground"></application>
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.CAMERA" />
+</manifest>
